@@ -415,7 +415,6 @@ class Menu {
 			cout<<"-----------------------------"<<endl;
 			cout<<"Opción:  ";
 			//Para luego pedir que ingrese la opcion que desea realizar//
-			getline(cin, in);
 			//Se recibe como ingreso de teclado//
 			getline(cin, in);
 			//Y se comprueba que sea un valor completamene numerico//
